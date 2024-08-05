@@ -17,7 +17,7 @@ Ans: When checking for code vulnerabilities, you can use several methods to make
      5.Dependency Scanning: Check the libraries and modules your code uses to make sure they don’t have known vulnerabilities. This is important because you rely on other 
        people's code when you use libraries.
 
-#### How would you access data in an S2 bucket from Account A when your application is running on an EC2 instance in Account B?
+#### How would you access data in an S3 bucket from Account A when your application is running on an EC2 instance in Account B?
 
 ANS: To access data in an S3 bucket from Account A when your application is running on an EC2 instance in Account B, you can follow these steps:
 
